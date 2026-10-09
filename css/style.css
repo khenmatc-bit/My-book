@@ -1,0 +1,66 @@
+.hero-bg{
+    background-color: #dbdbdb;
+}
+.h2-font {
+  font-family: "IBM Plex Sans Thai", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+h2 {
+  font-family: "IBM Plex Sans Thai", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+p {
+  font-family: "IBM Plex Sans Thai", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+
+}
+h3{
+  font-family: "IBM Plex Sans Thai", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+
+}
+h4{
+  font-family: "IBM Plex Sans Thai", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+
+}
+h5{
+  font-family: "IBM Plex Sans Thai", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+
+}
+h1 {
+  font-family: "Kodchasan", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: xx-large;
+}
+.font-eng {
+  font-family: "Isometra", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.font-th {
+  font-family: "Sriracha", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.font-eng-th {
+  font-family: "Mitr", sans-serif;
+  font-weight: 700;
+  font-size: xx-large;
+  font-style: normal;
+  color: #CA914C;
+}
+.bg-head {
+  background-color: #030302;
+}
+
+
+
